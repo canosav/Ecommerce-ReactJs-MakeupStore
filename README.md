@@ -7,6 +7,12 @@ Ecommerce creado para el curso de react en Coderhouse.
 
 [Makeup Store](https://ecommerce-react-js-makeup-store.vercel.app/)
 
+#### Instalacion
+1- Clonar el repositorio: git clone https://github.com/canosav/Ecommerce-ReactJs-MakeupStore.git
+2- Moverse a la carpeta: cd Ecommerce-ReactJs-MakeupStore
+3- Instalacion de dependencias: npm install 
+4- Correr el programa: npm run dev
+
 #### Construida
 - React
 - Firebase
@@ -24,8 +30,6 @@ Ecommerce creado para el curso de react en Coderhouse.
 #### Construida
 - React
 - Firebase
-
-
 
 ### Estructura del proyecto
 #### NavBar
