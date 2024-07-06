@@ -24,7 +24,7 @@ export const productos = [
         precio: 20000 ,
         imagen: "https://i.pinimg.com/564x/8f/9a/bb/8f9abbf6646344ff333c4543b2af8cce.jpg",
         descripcion: "Paleta de sombras NARS, tonos tierra ",
-        stock: 3 
+        stock: 3
     }, 
     {
         id: 4,
