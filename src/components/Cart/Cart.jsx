@@ -19,7 +19,6 @@ import {Link } from 'react-router-dom';
 
 const Cart = () => {
     const { cart, removeItem, clearCart, getTotal, incrementarItem, decrementarItem } = useContext(Context)
-    console.log('Carrito', cart)
     if(cart.length === 0) {
         return (
             <Center mt={10}>

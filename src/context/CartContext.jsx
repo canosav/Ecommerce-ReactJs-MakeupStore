@@ -54,9 +54,8 @@ export const CartContextProvider = ({ children }) => {
     };
 
     const getQuantity = () => {
-        if(isInCart){
-            return cart.reduce((acc) => acc + 1 , 0);
-        }
+    
+        return cart.reduce((acc) => acc + 1 , 0);
     };
     
     const decrementarItem = (id) => {

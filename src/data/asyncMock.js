@@ -6,7 +6,7 @@ export const productos = [
         precio:15000 ,
         imagen:"https://i.pinimg.com/564x/76/80/07/768007d8d7793be45ab3150e7ea64b4d.jpg",
         descripcion:"Mascara de pestañas Maybelline Sky High, Very Black, efecto alargador voluminizador",
-        stock: 6
+        stock: 0
     }, 
     {
         id: 2,
@@ -33,7 +33,7 @@ export const productos = [
         precio: 5000 ,
         imagen: "https://i.pinimg.com/736x/9e/11/dc/9e11dc7ddadc6914ee57eab44d1c72d2.jpg",
         descripcion: "Delineador de labios NYX, tono nude",
-        stock: 2
+        stock: 0
     }, 
     {
         id: 5,
